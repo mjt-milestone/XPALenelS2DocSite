@@ -122,32 +122,5 @@ plugins:
 
 nav:
   - Home: index.md
-  - Introduction: 
-    - Introduction/index.md
-    - Audience: Introduction/Audience.md
-    - Reading: Introduction/Reading.md
-  - Requirements:
-    - Requirements/index.md
-    - Software: Requirements/Software.md
-    - Network: Requirements/Network.md
-  - Install:
-    - Install/index.md
-    - Configuration: Install/Configuration.md
-    - Verification: Install/Verification.md
-  - User Interface:
-    - User Interface/index.md
-    - Menu: User Interface/Menu.md
-    - Navigation: User Interface/Navigation.md
-  - Features:
-    - Features/index.md
-    - Use Case 1: Features/Use Case 1.md
-    - Feature 2: Features/Feature 2.md
-    - Use Case 2: Features/Use Case 2.md
-  - Tasks:
-    - Tasks/index.md
-    - Workflow 2: Tasks/Workflow 2.md
-  - Troubleshooting:
-    - Troubleshooting/index.md
-    - References: Troubleshooting/References.md
-  - Glossary:
-    - Glossary/index.md
+  - Intro: 
+    - Intro/index.md
