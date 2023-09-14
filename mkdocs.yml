@@ -1,0 +1,158 @@
+site_name: Glass Docs Test
+site_url: https://www.MySite.local
+site_description: "Glass Documentation Site"
+repo_url: https://github.com/MilestoneSystemsInc/GlassDocsTest
+theme:
+  language: en
+  name: material
+  features:
+    - content.code.copy
+    - header.autohide
+    - navigation.footer
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - toc.follow
+  logo: assets/GlassLogoTrans.png
+  favicon: images/favicon.ico
+  font:
+    text: Actor
+    code: Prompt
+  palette: 
+      # Palette toggle for light mode
+    - scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/toggle-switch 
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to light mode
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+
+  # Python Markdown Extensions
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+      options:
+        custom_icons:
+          - overrides/.icons
+  - pymdownx.highlight:
+      anchor_linenums: true
+      use_pygments: true
+      auto_title: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+  
+extra:
+  consent:
+    title: Glass uses cookies
+    description: >- 
+      We use cookies to recognize you and measure the effect our changes have on your actions. With your consent, you're helping us to
+      improve.
+    actions:
+      - accept
+      - reject
+      - manage
+  generator: false
+  social:
+        - icon: fontawesome/brands/twitter
+          link: https://twitter.com/MilestoneDevCom
+          name: MilestoneDevCom on Twitter
+        - icon: fontawesome/brands/linkedin
+          link: https://www.linkedin.com/company/milestone-systems/
+          name: Milestone Systems on LinkedIn
+        - icon: fontawesome/brands/github
+          link: https://github.com/milestonesys
+          name: Milestone Systems on GitHub
+        - icon: fontawesome/brands/slack
+          link: https://milestonedevcommunity.slack.com
+          name: Milestone Developer Community on Slack
+copyright: >
+  Copyright &copy; 2023 Milestone Systems Inc. –
+  <a href="#__consent">Change cookie settings</a>
+plugins:
+  - rss:
+  - optimize:
+  - privacy:
+  - glightbox:
+      touchNavigation: true
+      loop: false
+      effect: zoom
+      slide_effect: slide
+      width: 100%
+      height: auto
+      zoomable: true
+      draggable: true
+      skip_classes:
+        - video
+      auto_caption: false
+      caption_position: bottom
+  - pdf-export:
+  - mkdocs-video:
+
+nav:
+  - Home: index.md
+  - Introduction: 
+    - Introduction/index.md
+    - Audience: Introduction/Audience.md
+    - Reading: Introduction/Reading.md
+  - Requirements:
+    - Requirements/index.md
+    - Software: Requirements/Software.md
+    - Network: Requirements/Network.md
+  - Install:
+    - Install/index.md
+    - Configuration: Install/Configuration.md
+    - Verification: Install/Verification.md
+  - User Interface:
+    - User Interface/index.md
+    - Menu: User Interface/Menu.md
+    - Navigation: User Interface/Navigation.md
+  - Features:
+    - Features/index.md
+    - Use Case 1: Features/Use Case 1.md
+    - Feature 2: Features/Feature 2.md
+    - Use Case 2: Features/Use Case 2.md
+  - Tasks:
+    - Tasks/index.md
+    - Workflow 2: Tasks/Workflow 2.md
+  - Troubleshooting:
+    - Troubleshooting/index.md
+    - References: Troubleshooting/References.md
+  - Glossary:
+    - Glossary/index.md
