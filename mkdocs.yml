@@ -107,3 +107,5 @@ nav:
     - Intro/index.md
   - Plan:
     - Plan/index.md
+  - Tech:
+    - Tech/index.md
