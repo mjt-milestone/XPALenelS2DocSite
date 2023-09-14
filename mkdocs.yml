@@ -1,7 +1,7 @@
-site_name: Glass Docs Test
+site_name: OnGuard XProtect Access User Guide
 site_url: https://www.MySite.local
-site_description: "Glass Documentation Site"
-repo_url: https://github.com/MilestoneSystemsInc/GlassDocsTest
+site_description: "OnGuard XProtect Access Documentation Site"
+repo_url: https://github.com/mjt-milestone/XPALenelS2DocSite
 theme:
   language: en
   name: material
@@ -105,3 +105,5 @@ nav:
   - Home: index.md
   - Intro: 
     - Intro/index.md
+  - Plan:
+    - Plan/index.md
