@@ -110,6 +110,7 @@ nav:
   - Tech:
     - Tech/index.md
     - Tech/SecComExp.md
+    - Tech/PluginSettings.JSON.md
   - Prereqs:
     - Prereqs/index.md
   - Install:
@@ -122,4 +123,6 @@ nav:
     - SCFeatures/index.md
   - Mobile:
     - Mobile/index.md
+  - Tray:
+    - Tray/index.md
   
