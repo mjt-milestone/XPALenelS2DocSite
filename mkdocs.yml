@@ -116,3 +116,7 @@ nav:
     - Install/index.md
   - MCConfig:
     - MCConfig/index.md
+  - AdminConfig:
+    - AdminConfig/index.md
+  - SCFeatures:
+    - SCFeatures/index.md
