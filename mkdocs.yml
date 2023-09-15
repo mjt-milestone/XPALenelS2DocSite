@@ -111,6 +111,7 @@ nav:
     - Tech/index.md
     - Tech/SecComExp.md
     - Tech/PluginSettings.JSON.md
+    - Tech/KnownLimitations.md
   - Prereqs:
     - Prereqs/index.md
   - Install:
