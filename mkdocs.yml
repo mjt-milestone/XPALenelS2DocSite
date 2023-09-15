@@ -126,4 +126,7 @@ nav:
     - Mobile/index.md
   - Tray:
     - Tray/index.md
+  - Troubleshooting:
+    - Troubleshooting/index.md
+    
   
