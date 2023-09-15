@@ -18,7 +18,7 @@ theme:
   logo: assets/GlassLogoTrans.png
   favicon: images/favicon.ico
   font:
-    text: Actor
+    text: Noto Sans Symbols
     code: Prompt
   palette: 
       # Palette toggle for light mode
@@ -109,3 +109,4 @@ nav:
     - Plan/index.md
   - Tech:
     - Tech/index.md
+    - Tech/SecComExp.md
