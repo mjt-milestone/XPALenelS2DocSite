@@ -114,3 +114,5 @@ nav:
     - Prereqs/index.md
   - Install:
     - Install/index.md
+  - MCConfig:
+    - MCConfig/index.md
