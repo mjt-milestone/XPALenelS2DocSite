@@ -120,3 +120,6 @@ nav:
     - AdminConfig/index.md
   - SCFeatures:
     - SCFeatures/index.md
+  - Mobile:
+    - Mobile/index.md
+  
