@@ -110,3 +110,7 @@ nav:
   - Tech:
     - Tech/index.md
     - Tech/SecComExp.md
+  - Prereqs:
+    - Prereqs/index.md
+  - Install:
+    - Install/index.md
