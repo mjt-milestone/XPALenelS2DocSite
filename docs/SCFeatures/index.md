@@ -1,6 +1,6 @@
 ---
 hide:
-  - navigation
+  - toc
 ---
 # Access control workspace explained
 

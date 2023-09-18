@@ -1,6 +1,6 @@
 ---
 hide:
-  - navigation
+  - toc
 ---
 # Working with the PluginSettings.json configuration file
 

@@ -1,6 +1,6 @@
 ---
 hide:
-  - navigation
+  - toc
 ---
 # Different installation scenarios (explained)
 >

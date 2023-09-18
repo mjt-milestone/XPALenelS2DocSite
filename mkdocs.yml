@@ -8,10 +8,10 @@ theme:
   features:
     - content.code.copy
     - header.autohide
-    - navigation.footer
     - navigation.instant
     - navigation.tracking
     - navigation.top
+    - toc.integrate
   logo: assets/GlassLogoTrans.png
   favicon: images/favicon.ico
   font:
