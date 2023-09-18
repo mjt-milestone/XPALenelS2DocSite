@@ -100,7 +100,7 @@ copyright: >
   <a href="#__consent">Change cookie settings</a>
 
 nav:
-  - What?: index.md
+  - Home: index.md
   - Introduction: 
     - Intro/index.md
     - Intro/CurrentDoc.md
