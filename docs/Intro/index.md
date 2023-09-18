@@ -1,4 +1,4 @@
-# General description
+# Executive summary
 >
 > This document describes the OnGuard XProtect Access integration between XProtect video management system (VMS) and the OnGuard access control (AC) system. This integration supports the following standard XProtect Access features:
 >
@@ -16,5 +16,5 @@
 + AC hardware status display and command interaction on VMS client map user interface.
 + Create customized access reports based on search queries in XProtect Smart Client.
 + Smart Client pop-up access request notifications.
-+ AC hardware interaction via XProtect web and mobile clients.<
-+ Connect to the OnGuard web administration interface from the Smart Client</
++ AC hardware interaction via XProtect web and mobile clients.
++ Connect to the OnGuard web administration interface from the Smart Client.

@@ -1,28 +1,27 @@
-# Welcome to Glass Doc Test
+# OnGuard XProtect Access integration user guide
 
-![Test Pattern](images/testpattern.png)
+For more info  :envelope: <mjt@milestone.us>
 
-For more info  :bootstrap-envelope: <mjt@milestone.us>
+## Get started
 
-## Get started editing
-
-* `.\\Run-MKDocsProject.ps1` - -port 8080
-
-## Site structure
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+[![XPAReader](images/MobileXPAReader.png)](Intro/index.md)
 
 ---
+## Documentation sections
 
 <div class="grid cards" markdown>
 
-- :bootstrap-magic:  __Install__ How to install Glass.
-- :bootstrap-key:  __Features__ What Glass can do.
-- :bootstrap-briefcase-fill:  __Tasks__ What you can do with Glass.
-- :bootstrap-patch-question:  __Support__ Need help with Glass?
-
+- :map:  __Before__ 
+        + [links](Intro/CurrentDoc.md)
+        + all 
+        + of 
+            +them
+- :key:  __During__ 
+        a whole lot more if it is needed, because it might be.
+        + and all the rest of the links
+        + in this section
+- :briefcase:  __After__ 
+        + and 
+        + the rest
 </div>
 
