@@ -11,10 +11,9 @@ theme:
     - navigation.footer
     - navigation.instant
     - navigation.tracking
-    - navigation.tabs
-    - navigation.tabs.sticky
+    - navigation.expand
     - navigation.top
-    - toc.follow
+    - toc.integrate
   logo: assets/GlassLogoTrans.png
   favicon: images/favicon.ico
   font:
@@ -105,6 +104,7 @@ nav:
   - Home: index.md
   - Intro: 
     - Intro/index.md
+    - Intro/CurrentDoc.md
   - Plan:
     - Plan/index.md
   - Tech:
@@ -128,5 +128,5 @@ nav:
     - Tray/index.md
   - Troubleshooting:
     - Troubleshooting/index.md
-    
+
   
