@@ -1,3 +1,7 @@
+---
+hide:
+  - navigation
+---
 # Secure communication explained
 
 XProtect Access integrations can be  configured  to use encrypted communications. The XProtect Access integration with OnGuard can encrypt communications between the XProtect Access service and the XProtect Event Server, and between the XProtect Access service and OpenAccess service. 

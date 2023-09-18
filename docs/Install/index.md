@@ -1,3 +1,7 @@
+---
+hide:
+  - navigation
+---
 # Installation program (explained)
 
 The installation package consists of one context sensitive installer program:

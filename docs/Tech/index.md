@@ -1,3 +1,7 @@
+---
+hide:
+  - navigation
+---
 # Software version compatibility
 
 Integration with **OnGuard** access control system is supported for all **XProtect** VMS products that support MIP integrations. To find  a list of supported versions of the following software components, read the [most recent](https://download.milestonesys.com/lenels2xpa/) compatibility information.

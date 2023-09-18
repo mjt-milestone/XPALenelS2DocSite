@@ -11,9 +11,7 @@ theme:
     - navigation.footer
     - navigation.instant
     - navigation.tracking
-    - navigation.expand
     - navigation.top
-    - toc.integrate
   logo: assets/GlassLogoTrans.png
   favicon: images/favicon.ico
   font:
@@ -45,6 +43,7 @@ markdown_extensions:
   - def_list
   - footnotes
   - md_in_html
+  - meta
   - toc:
       permalink: true
 
@@ -101,26 +100,26 @@ copyright: >
   <a href="#__consent">Change cookie settings</a>
 
 nav:
-  - Home: index.md
-  - Intro: 
+  - What?: index.md
+  - Introduction: 
     - Intro/index.md
     - Intro/CurrentDoc.md
-  - Plan:
+  - Engineering decisions:
     - Plan/index.md
-  - Tech:
+  - Technical options:
     - Tech/index.md
     - Tech/SecComExp.md
     - Tech/PluginSettings.JSON.md
     - Tech/KnownLimitations.md
-  - Prereqs:
+  - Pre-requisites:
     - Prereqs/index.md
-  - Install:
+  - Installation:
     - Install/index.md
-  - MCConfig:
+  - Management Client Configuration:
     - MCConfig/index.md
-  - AdminConfig:
+  - Administative Configuration Options:
     - AdminConfig/index.md
-  - SCFeatures:
+  - Smart Client Features:
     - SCFeatures/index.md
   - Mobile:
     - Mobile/index.md

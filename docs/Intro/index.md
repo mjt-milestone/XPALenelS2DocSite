@@ -1,3 +1,7 @@
+---
+hide:
+  - navigation
+---
 # Executive summary
 >
 > This document describes the OnGuard XProtect Access integration between XProtect video management system (VMS) and the OnGuard access control (AC) system. This integration supports the following standard XProtect Access features:

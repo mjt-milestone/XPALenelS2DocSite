@@ -1,3 +1,7 @@
+---
+hide:
+  - navigation
+---
 # Current version
 
 | Version   | Notes                                                                 |

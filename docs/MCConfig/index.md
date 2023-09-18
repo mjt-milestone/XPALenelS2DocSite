@@ -1,3 +1,7 @@
+---
+hide:
+  - navigation
+---
 # XProtect Access instance creation wizard
 
 After installing the OnGuard XProtect Access MipPlugin on the XProtect Event Server, create the access control instance in the XProtect Management Client.

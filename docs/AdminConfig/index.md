@@ -1,3 +1,7 @@
+---
+hide:
+  - navigation
+---
 # Door & camera association
 
 In the **Doors and Associated Cameras** menu of the XProtect Access Instance it's possible to verify the status of all connected doors, and create, reassign, and remove the association between cameras and doors. Doors require associated cameras to view live and recorded video - and listen to or play audio through any XProtect client that supports visualization of doors.

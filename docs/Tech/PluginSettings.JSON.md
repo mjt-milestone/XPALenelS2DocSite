@@ -1,3 +1,7 @@
+---
+hide:
+  - navigation
+---
 # Working with the PluginSettings.json configuration file
 
 The OnGuard XProtect Access Integration uses a .json file to control the configuration options for cardholder and visitor search, and alarm acknowledgment. This PluginSettings.json file is on the OnGuard server or the host of the OnGuard XProtect Access Service. The file location should be:

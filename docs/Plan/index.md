@@ -1,3 +1,7 @@
+---
+hide:
+  - navigation
+---
 # Different installation scenarios (explained)
 >
 > There are different ways to integrate XProtect with the OnGuard access control system. This section is a guide to help you figure out which deployment options you should consider. 

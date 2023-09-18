@@ -1,3 +1,7 @@
+---
+hide:
+  - navigation
+---
 # Limitations
 
 + OnGuard doesn’t model doors; instead it models readers. But XProtect Access requires doors. The OnGuard plugin creates virtual doors based on reader properties (i.e. panel id, panel address, reader number, etc). The virtual door names are taken from the first reader that has a non-empty display name. If that reader is named “reader 1”, that’s what the door is named. This may not be intuitive when viewed in the XProtect Management Client or Smart Client applications’ hardware hierarchy
