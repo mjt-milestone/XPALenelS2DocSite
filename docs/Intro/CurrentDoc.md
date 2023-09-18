@@ -1,4 +1,4 @@
-# Current document version
+# Current version
 
 | Version   | Notes                                                                 |
 |-----------|-----------------------------------------------------------------------|
