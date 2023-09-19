@@ -3,9 +3,19 @@ hide:
   - toc
 ---
 # Executive summary
->
-> This document describes the OnGuard XProtect Access integration between XProtect video management system (VMS) and the OnGuard access control (AC) system. This integration supports the following standard XProtect Access features:
->
+
+This document describes the OnGuard XProtect Access integration between XProtect video management system (VMS) and the OnGuard access control (AC) system. 
+
+``` mermaid
+graph LR
+    OnGuard([OnGuard])
+    XProtect([XProtect])
+    OnGuard --> XProtect
+
+```
+
+This integration supports the following standard XProtect Access features:
+
 
 + Retrieve and refresh configuration from the OnGuard AC system, e.g. doors and event types
 + Receive AC event streams and hardware status changes from the OnGuard system
