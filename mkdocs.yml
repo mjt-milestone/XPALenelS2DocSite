@@ -3,6 +3,9 @@ site_url: https://www.MySite.local
 site_description: "OnGuard XProtect Access Documentation Site"
 repo_url: https://github.com/mjt-milestone/XPALenelS2DocSite
 theme:
+  icon:
+    admonition:
+      abstract: fontawesome/solid/robot
   language: en
   name: material
   features:
