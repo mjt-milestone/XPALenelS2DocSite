@@ -3,16 +3,16 @@
   }
   .md-typeset .admonition.glass,
   .md-typeset details.glass {
-    border-color: rgb(225, 232, 16);
+    border-color: rgb(6, 6, 6);
   }
   .md-typeset .glass > .admonition-title,
   .md-typeset .glass > summary {
     background-color: rgba(250, 250, 248, 0.006);
-    border-color: rgb(225, 232, 16)
+    border-color: rgb(8, 8, 8)
   }
   .md-typeset .glass > .admonition-title::before,
   .md-typeset .glass > summary::before {
-    background-color: rgb(225, 232, 16);
+    background-color: rgb(6, 6, 6);
     -webkit-mask-image: var(--md-admonition-icon--glass);
             mask-image: var(--md-admonition-icon--glass);
   }
