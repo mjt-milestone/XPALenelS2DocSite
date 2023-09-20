@@ -45,7 +45,7 @@ Simple items can lead to support calls if overlooked. Below is a short list of t
     + Open the MIP Plugin logs at this location to verify that the events are received by the Event Server:
         + C:\ProgramData\VideoOS\VideoOS.OnGuard.XPA.MipPlugin\VideoOS.Event.Server\logs
     
-!!! success "Milestone Diagnostics Tool"
+!!! glass "Milestone Diagnostics Tool"
     In order to have all of the log information that might be required to help troubleshoot event issues, it is recommended to use the Milestone Diagnostics Tool. Read about how to use this tool, and how to gather log data, [here](https://doc.milestonesys.com/latest/en-US/portal/htm/chapter-page-diagnostics-tool.htm?tocpath=Tools%20%2526%20Architecture%7CMilestone%20Diagnostics%20Tool%7C_____0" title="Milestone Diagnostics Tool).
 
 ## OnGuard
@@ -54,5 +54,5 @@ Simple items can lead to support calls if overlooked. Below is a short list of t
 + Check SQL server configuration for the OnGuard system. This process is detailed in a knowledge base article [here](https://supportcommunity.milestonesys.com/s/article/Lenel-OnGuard-XPA-Integration-not-receiving-OpenAccess-events-ACM-troubleshooting?language=en_US).
     + This step requires running a SQL query using SQL Server Management Studio and potentially modifying the configuration.
 
-!!! success "Advanced"
+!!! glass "Advanced"
     If all of these attempts to fix event communication fail contact Milestone technical support. There are additional tools, such as the OnGuard Event Subscriber tool, which can be used to gather all event communication on an OnGuard system and output it to a text file for further troubleshooting. This tool is only available through support.
