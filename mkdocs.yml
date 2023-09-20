@@ -111,8 +111,12 @@ nav:
   - Introduction: 
     - Intro/index.md
     - Intro/CurrentDoc.md
+    - Intro/New43.md
+    - Intro/SolutionOverview.md
   - Engineering decisions:
     - Plan/index.md
+    - Plan/SingleSystemScenario.md
+    - Plan/MultipleSingleSystems.md
   - Technical options:
     - Tech/index.md
     - Tech/SecComExp.md
