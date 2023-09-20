@@ -3,14 +3,11 @@ hide:
   - toc
 ---
 # Different installation scenarios (explained)
->
-> There are different ways to integrate XProtect with the OnGuard access control system. This section is a guide to help you figure out which deployment options you should consider. 
->
 
-??? success "Deployment Guide"
-    >
-    > Milestone and LenelS2 have created a technical deployment guide which documents design recommendations, performance thresholds, and architectural guidance within one short document. The OnGuard XProtect Access integration is covered in this deployment guide. [Download](https://download.milestonesys.com/lenels2xpa) and read the guide. 
-    >
+There are different ways to integrate XProtect with the OnGuard access control system. This section is a guide to help you figure out which deployment options you should consider. 
+
+!!! glass "Deployment Guide"
+    Milestone and LenelS2 have created a technical deployment guide which documents design recommendations, performance thresholds, and architectural guidance within one short document. The OnGuard XProtect Access integration is covered in this deployment guide. [Download](https://download.milestonesys.com/lenels2xpa) and read the guide. 
 ***
 | Installation Scenario                                                         |Use Case                                                                                                                                                    |
 |-------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
