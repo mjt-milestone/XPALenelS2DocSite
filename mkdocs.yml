@@ -6,6 +6,7 @@ theme:
   icon:
     admonition:
       abstract: fontawesome/solid/robot
+      success: successlogo
   language: en
   name: material
   features:
