@@ -58,7 +58,7 @@ markdown_extensions:
       smart_enable: all
   - pymdownx.caret
   - pymdownx.details
-  - pymdownx.emoji
+  - pymdownx.emoji:
       options:
         custom_icons:
           - overrides/.icons
