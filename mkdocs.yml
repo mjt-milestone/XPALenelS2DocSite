@@ -8,6 +8,7 @@ theme:
       abstract: fontawesome/solid/robot
   language: en
   name: material
+  custom_dir: overrides
   features:
     - content.code.copy
     - header.autohide
@@ -61,7 +62,7 @@ markdown_extensions:
   - pymdownx.emoji:
       options:
         custom_icons:
-          - overrides/.icons
+          - overrides/.icons/admonitionicons
   - pymdownx.highlight:
       anchor_linenums: true
       use_pygments: true
