@@ -39,7 +39,6 @@ theme:
         name: Switch to light mode
 extra_css:
   - stylesheets/colors.css
-  - stylesheets/success.css
 
 markdown_extensions:
   - abbr
