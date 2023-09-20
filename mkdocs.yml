@@ -6,7 +6,6 @@ theme:
   icon:
     admonition:
       abstract: fontawesome/solid/robot
-      success: fontawesome/solid/robot
   language: en
   name: material
   features:
@@ -39,6 +38,7 @@ theme:
         name: Switch to light mode
 extra_css:
   - stylesheets/colors.css
+  - stylesheets/success.css
 
 markdown_extensions:
   - abbr
