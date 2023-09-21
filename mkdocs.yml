@@ -124,6 +124,11 @@ nav:
     - Plan/Redundancy.md
   - Technical options:
     - Tech/index.md
+    - Tech/HardwareSupport.md
+    - Tech/Scalability.md
+    - Tech/FIPS.md
+    - Tech/SegmentsExplained.md
+    - Tech/ConfigSegs.md
     - Tech/SecComExp.md
     - Tech/PluginSettings.JSON.md
     - Tech/KnownLimitations.md
