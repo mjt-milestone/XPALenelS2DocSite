@@ -129,7 +129,11 @@ nav:
     - Tech/FIPS.md
     - Tech/SegmentsExplained.md
     - Tech/ConfigSegs.md
+    - Tech/UserSegs.md
+    - Tech/SSOExplained.md
     - Tech/SecComExp.md
+    - Tech/XProtectCerts.md
+    - Tech/OnGuardCerts.md
     - Tech/PluginSettings.JSON.md
     - Tech/KnownLimitations.md
   - Pre-requisites:
