@@ -138,6 +138,15 @@ nav:
     - Tech/KnownLimitations.md
   - Pre-requisites:
     - Prereqs/index.md
+    - Prereqs/DotNET.md
+    - Prereqs/MSLic.md
+    - Prereqs/DNS.md
+    - Prereqs/SCProfiles.md
+    - Prereqs/OGLic.md
+    - Prereqs/OGServices.md
+    - Prereqs/GenSoftEvents.md
+    - Prereqs/CreateDirectory.md
+    - Prereqs/CreateUser.md
   - Installation:
     - Install/index.md
   - Management Client Configuration:
