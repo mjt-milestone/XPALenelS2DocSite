@@ -149,6 +149,8 @@ nav:
     - Prereqs/CreateUser.md
   - Installation:
     - Install/index.md
+    - Install/Step1Install.md
+    - Install/Step2Install.md
   - Management Client Configuration:
     - MCConfig/index.md
   - Administative Configuration Options:
