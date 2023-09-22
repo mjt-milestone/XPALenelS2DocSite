@@ -156,6 +156,13 @@ nav:
     - Install/Uninstall.md
   - Management Client Configuration:
     - MCConfig/index.md
+    - MCConfig/ConnectionProperties.md
+    - MCConfig/PersonalizedLogin.md
+    - MCConfig/EnablePersonalizedLogin.md
+    - MCConfig/SCLoginWPL.md
+    - MCConfig/RefreshPL.md
+    - MCConfig/Commands.md
+    - MCConfig/SupportedCommands.md
   - Administative Configuration Options:
     - AdminConfig/index.md
   - Smart Client Features:
