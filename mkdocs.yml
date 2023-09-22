@@ -151,6 +151,9 @@ nav:
     - Install/index.md
     - Install/Step1Install.md
     - Install/Step2Install.md
+    - Install/Upgrades.md
+    - Install/DataConduIT.md
+    - Install/Uninstall.md
   - Management Client Configuration:
     - MCConfig/index.md
   - Administative Configuration Options:
