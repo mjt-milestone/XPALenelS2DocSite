@@ -2,13 +2,11 @@
 
 If XProtect is unable to communicate with the OnGuard XProtect Access instance, the instance won't appear in the Access Control section of the Management Client. This process should restore visibility:
 
-## On the Milestone server:
+<h2>On the Milestone server</h2>
 
 1. Close the Management Client and Smart Client.
-2. Stop the XProtect Event Server.
-
-## On the OnGuard server:
-
+2. Stop the XProtect Event Server.</br>
+    <h2>On the OnGuard server:</h2>
 3. Stop the OnGuard XProtect Access Service.
 4. Verify the required OnGuard services are running. 
     + LS Event Context Provider.
@@ -16,10 +14,8 @@ If XProtect is unable to communicate with the OnGuard XProtect Access instance, 
     + LS OpenAccess.
     + LS Web Event Bridge.
     + LS Web Service.
-5. Start the OnGuard XProtect Access Service
-
-## On the Milestone server:
-
+5. Start the OnGuard XProtect Access Service</br>
+    <h2>On the Milestone server:</h2>
 6. Start the XProtect Event Server and wait for it to begin running.
 7. Start the Management Client.
 
