@@ -200,5 +200,9 @@ nav:
     - Troubleshooting/PasswordError.md
     - Troubleshooting/RulesStopWorking.md
     - Troubleshooting/VerifyInstall.md
+    - Troubleshooting/CardholderModify.md
+    - Troubleshooting/NoCardholderChanges.md
+    - Troubleshooting/FloodingOnGuardReports.md
+    - Troubleshooting/NoXPAInstance.md
 
   
