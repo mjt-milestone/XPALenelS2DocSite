@@ -197,5 +197,8 @@ nav:
     - Troubleshooting/index.md
     - Troubleshooting/HardwareComms.md
     - Troubleshooting/Downgrades.md
+    - Troubleshooting/PasswordError.md
+    - Troubleshooting/RulesStopWorking.md
+    - Troubleshooting/VerifyInstall.md
 
   
