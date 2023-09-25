@@ -165,6 +165,12 @@ nav:
     - MCConfig/SupportedCommands.md
   - Administative Configuration Options:
     - AdminConfig/index.md
+    - AdminConfig/CategorizeEvents.md
+    - AdminConfig/ACEventCats.md
+    - AdminConfig/AccessRequestNotifications.md
+    - AdminConfig/SearchingCardholders.md
+    - AdminConfig/ClientProfilesRoles.md
+    - AdminConfig/ManageClientProfilesRoles.md
   - Smart Client Features:
     - SCFeatures/index.md
   - Mobile:
