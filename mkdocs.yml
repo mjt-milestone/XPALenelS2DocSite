@@ -188,6 +188,7 @@ nav:
     - SCFeatures/SCACOptions.md
   - Mobile:
     - Mobile/index.md
+    - Mobile/MobileTab.md
   - Tray:
     - Tray/index.md
   - Troubleshooting:
