@@ -184,6 +184,8 @@ nav:
     - SCFeatures/AlarmAck.md
     - SCFeatures/AckXProtect.md
     - SCFeatures/AckOnGuard.md
+    - SCFeatures/OldAckBehavior.md
+    - SCFeatures/SCACOptions.md
   - Mobile:
     - Mobile/index.md
   - Tray:

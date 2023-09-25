@@ -7,8 +7,7 @@ Alarm states in XProtect and OnGuard are not the same. In XProtect alarms can be
 | OnGuard Alarm Status  | XProtect Alarm Status |
 |-----------------------|-----------------------|
 | <ul><li>NEW</li></ul> | <ul><li>NEW</li></ul> |
-| <ul><li>IN PROGRESS</li></ul> | <ul><li>IN PROGRESS</li></ul> |
-| <ul><li>IN PROGRESS</li></ul> | <ul><li>ON HOLD</li></ul> |
+| <ul><li>IN PROGRESS</li></ul> | <ul><li>IN PROGRESS</li><li>ON HOLD</li></ul> |
 | <ul><li>ACKNOWLEDGED</li></ul> | <ul><li>CLOSED</li></ul> |
 
 There are improvements to how alarms change state in the integration.
