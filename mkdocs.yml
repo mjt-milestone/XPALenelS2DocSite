@@ -177,6 +177,13 @@ nav:
     - SCFeatures/ACWDoors.md
     - SCFeatures/ACWCardholders.md
     - SCFeatures/OGWebLink.md
+    - SCFeatures/AccessMonitor.md
+    - SCFeatures/Maps.md
+    - SCFeatures/MapIconRef.md
+    - SCFeatures/OverlayButtons.md
+    - SCFeatures/AlarmAck.md
+    - SCFeatures/AckXProtect.md
+    - SCFeatures/AckOnGuard.md
   - Mobile:
     - Mobile/index.md
   - Tray:
