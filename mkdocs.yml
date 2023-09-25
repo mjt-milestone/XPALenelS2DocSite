@@ -173,6 +173,10 @@ nav:
     - AdminConfig/ManageClientProfilesRoles.md
   - Smart Client Features:
     - SCFeatures/index.md
+    - SCFeatures/ACWEvents.md
+    - SCFeatures/ACWDoors.md
+    - SCFeatures/ACWCardholders.md
+    - SCFeatures/OGWebLink.md
   - Mobile:
     - Mobile/index.md
   - Tray:
