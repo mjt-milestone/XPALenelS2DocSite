@@ -204,5 +204,7 @@ nav:
     - Troubleshooting/NoCardholderChanges.md
     - Troubleshooting/FloodingOnGuardReports.md
     - Troubleshooting/NoXPAInstance.md
+    - Troubleshooting/OpenAccessStops.md
+    - Troubleshooting/OSDP.md
 
   
