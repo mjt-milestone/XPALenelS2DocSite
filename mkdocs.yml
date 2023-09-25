@@ -195,5 +195,7 @@ nav:
     - Tray/LogViewer.md
   - Troubleshooting:
     - Troubleshooting/index.md
+    - Troubleshooting/HardwareComms.md
+    - Troubleshooting/Downgrades.md
 
   
