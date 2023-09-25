@@ -191,6 +191,8 @@ nav:
     - Mobile/MobileTab.md
   - Tray:
     - Tray/index.md
+    - Tray/SelectCert.md
+    - Tray/LogViewer.md
   - Troubleshooting:
     - Troubleshooting/index.md
 
