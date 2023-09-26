@@ -19,7 +19,6 @@ Or
 
 ![IntSrv](img/IntegratewWarn.png)
 
-??? success "Plugin version requirements"
-    >
-    >   It's required that the exact same versions of the OnGuard XProtect Access integration software components are installed on both the OnGuard and XProtect machines.
-    >
+!!! glass "Plugin version requirements"
+    It's required that the exact same versions of the OnGuard XProtect Access integration software components are installed on both the OnGuard and XProtect machines.
+    

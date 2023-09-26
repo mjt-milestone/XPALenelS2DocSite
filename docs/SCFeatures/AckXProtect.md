@@ -7,5 +7,5 @@ In XProtect operators perform alarm acknowledgment and other alarm status change
     ![CloseAlarm](img/SCFeatures_21.png)
 3. Alarm status synchronizes as much as possible between XProtect and OnGuard.
 
-!!! glass
+!!! glass "Alarm acknowledgement explained"
     Learn more about how the integration handles alarm acknowledgment here: Alarm acknowledgment explained.

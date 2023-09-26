@@ -24,7 +24,7 @@ After installing the OnGuard XProtect Access MipPlugin on the XProtect Event Ser
 | OpenAccess - User:                | SSO user defined in OnGuard                               |
 | OpenAccess - Password:            | Password for the SSO user in OnGuard.                     |
 | OpenAccess - Directory:           | Directory for the SSO user in OnGuard.                    |
-4. After connection, the wizard imports data from the OnGuard server. This includes **Doors**, **Units**, **Servers**, **Events**, **Commands**, and **States**. Click **Next**.
+4. After connection, the wizard imports data from the OnGuard server. This includes **Doors**, **Units**, **Servers**, **Events**, **Commands**, and **States**. Click **Next**.</br>
 ![ImportConfig](img/XPMgmtClient_3.png)
 5. Associate doors with cameras. Select a camera and drag it to a door.
 ![Door2Camera](img/XPMgmtClient_4.png)
