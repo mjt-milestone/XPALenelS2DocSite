@@ -206,5 +206,8 @@ nav:
     - Troubleshooting/NoXPAInstance.md
     - Troubleshooting/OpenAccessStops.md
     - Troubleshooting/OSDP.md
+    - Troubleshooting/OpenAccessEventsFail.md
+    - Troubleshooting/DevTabs.md
+    - Troubleshooting/EnableDevTabs.md
 
   
