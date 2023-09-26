@@ -10,9 +10,7 @@ Integration with **OnGuard** access control system is supported for all **XProte
 + XProtect video mangement software
 + OnGuard XProtect Access integration software 
 
-!!! success "Recommendations"
-    >
-    >   Please verify the version of OnGuard  is compatible. Milestone recommends the latest versions of both OnGuard and XProtect.
-    >
-***
+!!! glass "Recommendations"
+    Please verify the version of OnGuard  is compatible. Milestone recommends the latest versions of both OnGuard and XProtect.
+
 

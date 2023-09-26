@@ -3,11 +3,12 @@
 ??? warning
     These instructions are not meant to replace the knowledge of a trained LenelS2 system administrator. They are here to enable the basic setup of an authentication directory and user, so the integration can connect to the OnGuard system.
 
-!!! glass "&nbsp;"
+!!! glass "OnGuard Enterprise"
         For an OnGuard Enterprise system, create directories from the master server.
 
 1. Using the OnGuard System Administration app, go to the **Administration** menu and select **Directories**.</br>
-    ![DirectoryMenu](img/Prerequisites_3.png)
+
+    ![DirectoryMenu](img/Prerequisites_3.png)</br>
 2. Choose the directory type, either **Windows Local Account** or domain user account.</br>
 
 | Windows Local Account                         | Domain user account                     |

@@ -20,7 +20,5 @@ After editing and saving the .json file, changes take effect after the next rest
 4. Restart the OnGuard XProtect Access Service.
 5. Restart the XProtect Event Server
 
-??? success "Upgrading versions?"
-    >
-    > Upgrades from older versions of the OnGuard XProtect Access integration to versions 4.2 or newer may not automatically receive a fully detailed **PluginSettings.json** file. Delete the file, restart the OnGuard XProtect Access Service, send an event or perform a cardholder search.
-    >
+??? warning "Upgrading versions?"
+     Upgrades from older versions of the OnGuard XProtect Access integration to versions 4.2 or newer may not automatically receive a fully detailed **PluginSettings.json** file. Delete the file, restart the OnGuard XProtect Access Service, send an event or perform a cardholder search.
