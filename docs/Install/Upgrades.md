@@ -32,4 +32,4 @@ The upgrade process fills the Port field with the default value of 8443, but the
 3. Save the changes in the Management Client.
 
 ??? abstract "Rules stop working after upgrade?"
-    Upgrading to 4.0 or higher from older versions requires reconfiguration of all rules in XProtect triggered by access control events or event categories. Door hardware objects aren't supported as event sources in 4.0 or newer versions, readers are used instead. Read more here: Access control rules stop working after upgrade to 4.0 or newer.
+    Upgrading to 4.0 or higher from older versions requires reconfiguration of all rules in XProtect triggered by access control events or event categories. Door hardware objects aren't supported as event sources in 4.0 or newer versions, readers are used instead. Read more here: [Access control rules stop working after upgrade to 4.0 or newer](/Troubleshooting/RulesStopWorking/).

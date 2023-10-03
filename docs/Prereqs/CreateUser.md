@@ -12,7 +12,7 @@
 3. On the **General** tab **Access to this system is disabled** should NOT be selected.</br>
     </br>
     ![GeneralAccess](img/Prerequisites_8.png)
-4. On the **Directory Accounts** tab click **Link** to associate the user to the directory user (or local account user) from the directory created in this topic: Create directory in OnGuard.</br>
+4. On the **Directory Accounts** tab click **Link** to associate the user to the directory user (or local account user) from the directory created in this topic: [Create directory in OnGuard](/Prereqs/CreateDirectory/).</br>
     </br>
     ![Lonk](img/Prerequisites_9.png)
 5. In the **Select Account** dialog select the directory from the Directory list. Click **Search** and select a user in **Accounts** then click **OK**.</br>

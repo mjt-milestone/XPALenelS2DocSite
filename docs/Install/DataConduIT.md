@@ -39,4 +39,4 @@ Any XProtect Access integration using the DataConduIT connection mode can't upgr
 6. On the OnGuard Server first install the OnGuard XProtect Access Service.
 7. Next move to the XProtect Event Server and install the OnGuard XProtect Access MipPlugin.
 8. Refresh the configuration on the OnGuard XProtect Access instance in the Management Client and reconfigure the connection properties in the **General Settings** tab as required.
-9. Reconfigure any rules triggered by access control events or event categories. Read: Access control rules stop working after upgrade to 4.0 or newer.
+9. Reconfigure any rules triggered by access control events or event categories. Read: [Access control rules stop working after upgrade to 4.0 or newer](/Troubleshooting/RulesStopWorking/).

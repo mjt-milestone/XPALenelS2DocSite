@@ -1,6 +1,6 @@
 # Uninstalling the integration
 
-When uninstalling the integration software to revert to an older version, please refer to Integration version downgrades.
+When uninstalling the integration software to revert to an older version, please refer to [Integration version downgrades](/Troubleshooting/Downgrades/).
 
 ??? warning
     When uninstalling both the OnGuard XProtect Access MipPlugin software and the XProtect Event Server on the same server, it's required to first uninstall the OnGuard XProtect Access MipPlugin components and uninstall the Event Server afterward. If the Event Server is uninstalled first, the integration software fails to uninstall.
