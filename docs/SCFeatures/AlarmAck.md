@@ -23,4 +23,4 @@ There are improvements to how alarms change state in the integration.
 + Once an alarm is in progress in OnGuard it can be "updated" with notes, however its status in XProtect will remain in progress, until it is acknowledged/closed. Status changes made in XProtect from in progress to on hold do not impact the status in OnGuard.
 
 ??? abstract "Revert Alarm behavior to old versions"
-    It's possible to change the alarm acknowledgment behavior of the integration to match previous versions (older than 4.2). How to make this change, and what this behavior means is documented here: Changing alarm acknowledgment behavior.
+    It's possible to change the alarm acknowledgment behavior of the integration to match previous versions (older than 4.2). How to make this change, and what this behavior means is documented here: [Changing alarm acknowledgment behavior](/SCFeatures/OldAckBehavior/).

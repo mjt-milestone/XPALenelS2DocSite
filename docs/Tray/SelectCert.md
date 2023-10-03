@@ -7,6 +7,6 @@
 3. The option is also available to choose any other certificate. Choose the **Use certificate from the list below** option to select any certificate from the local machine's personal certificate store.</br>
     
     ??? warning "Empty certificate list"
-        If there are no certificates available in the list, please refer to Secure communications explained and read about creating compatible certificates.
+        If there are no certificates available in the list, please refer to [Secure communications explained](/Tech/SecComExp/) and read about creating compatible certificates.
 
 4. The **Certificate properties...** button launches a properties menu for the chosen certificate.

@@ -4,7 +4,7 @@ There are several different access control map icons available on the standard S
 
 ![MapReferenceList](img/MapStatusTypes.png)
 
-The map feature of the XProtect Smart Client has many capabilities, please refer to the maps section of the Smart Client user guide.
+The map feature of the XProtect Smart Client has many capabilities, please refer to the maps section of the [Smart Client user guide](https://doc.milestonesys.com/latest/en-US/standard_features/sf_sc/sf_configuration/sc_configuringmaps.htm?tocpath=XProtect%20Smart%20Client%7CUser%20manual%7CConfiguration%7C_____17).
 
 ??? warning "Red ring"
     Controllers send status information to XProtect Access to support display of tamper alarms on those device icons. For supported controllers, a red alarm status ring appears on the icon when it's in a tampered state. When the controller physically returns to a safe state, the alarm status disappears from the icon.

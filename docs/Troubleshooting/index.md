@@ -6,27 +6,27 @@ hide:
 
 For issues not covered in this guide, please contact Milestone Support at support@milestone.us, or by phone at 503-350-1100.
 
-Simple items can lead to support calls if overlooked. Below is a short list of those items. First are the items to check on the XProtect Access system, followed by a list of things to verify on the OnGuard system. For both, make sure the versions of the OnGuard system and the XProtect system are supported.
+Simple items can lead to support calls if overlooked. Below is a short list of those items. First are the items to check on the XProtect Access system, followed by a list of things to verify on the OnGuard system. For both, make sure the versions of the OnGuard system and the XProtect system are [supported](https://download.milestonesys.com/LenelS2xpa/OnGuard-XProtect-Access-Compatibility.pdf).
 
 ## XProtect Access
 
 ??? abstract "Start Here"
-    + Check that the doors in XProtect Access are licensed.
-    + Check that the doors in XProtect Access are enabled.
-    + Verify the XProtect Access Service is running. 
+    + Check that the doors in XProtect Access are [licensed](/Prereqs/MSLic/).
+    + Check that the doors in XProtect Access are [enabled](/AdminConfig/).
+    + Verify the [XProtect Access Service](/Install/) is running. 
         + Check the service tray icon on the server where the XPA service is installed to verify.
     >
     > ![TrayIcon](img/CXAL.trayicon.png)
     >
-    + Make sure the Event Server connection to the XPA service is connected.
-    + Double check that the credentials used for the OpenAccess user and password fields are correct.
+    + Make sure the Event Server connection to the XPA service is [connected](/MCConfig/ConnectionProperties/).
+    + Double check that the credentials used for the OpenAccess [user and password fields](/MCConfig/ConnectionProperties/) are correct.
 
 ??? abstract "Events, alarms and status problems"
     + Verify all required doors and other devices from the OnGuard system are added to the XProtect Access system.
-        + As devices change over time, it's suggested to refresh the configuration from the General Settings tab.
-    + Check that events are displayed in the Smart Client access control workspace Events List.
+        + As devices change over time, it's suggested to refresh the configuration from the [General Settings](/MCConfig/ConnectionProperties/) tab.
+    + Check that events are displayed in the Smart Client [access control workspace Events List](/SCFeatures/ACWEvents/).
         + Make sure there are no filters applied which might be changing the results.
-    + Check that events are being displayed in the Management Client when the Live Events dev tab is displayed
+    + Check that events are being displayed in the Management Client when the Live Events [dev tab](/Troubleshooting/DevTabs/) is displayed
     + Match the Source of events appearing in the Smart Client access control workspace to any Alarms defined in the Alarm Definition menu of the Management Client.
         + Smart Client event source location:
     >
@@ -36,7 +36,7 @@ Simple items can lead to support calls if overlooked. Below is a short list of t
     >
     > ![MCSource](img/CXAL.eventsourceMC.png){width=75%}
     >
-    + Open the log viewer application and check the following logs to verify your events are received by the XProtect Access Service:
+    + Open the [log viewer application](/Tray/LogViewer/) and check the following logs to verify your events are received by the XProtect Access Service:
         + XPA Translator - Event Manager Logs
             + Change the log level to Debug and Apply the change. Send some events into the system and then Open the log file.
     >

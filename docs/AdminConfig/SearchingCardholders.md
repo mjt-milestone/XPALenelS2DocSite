@@ -7,4 +7,4 @@ All active cardholders in the OnGuard system are imported to the integration. Ac
 Visibility of cardholder information, such as name and badge numbers, comes from the OnGuard database.
 
 !!! glass "Modify cardholder data"
-    Edit the **PluginSettings.json** configuration file to change the data available within each cardholder record, and change the order of data display. To learn more read: Cardholder search data fields are missing, or out of order
+    Edit the **PluginSettings.json** configuration file to change the data available within each cardholder record, and change the order of data display. To learn more read: [Cardholder search data fields are missing, or out of order](/Troubleshooting/CardholderModify/)

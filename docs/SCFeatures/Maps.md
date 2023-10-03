@@ -21,4 +21,4 @@ It's possible to place doors, readers, inputs, outputs, panels, and OnGuard serv
     ![MapIconStatus](img/MapStatusFields.png)
 
 !!! glass "New map icons"
-    In versions 4.2 and newer of the integration, the map icons include more status options and hardware items. If you want to know the possible hardware items and status options refer to the Map icon hardware and status details topic.
+    In versions 4.2 and newer of the integration, the map icons include more status options and hardware items. If you want to know the possible hardware items and status options refer to the [Map icon hardware and status details](/SCFeatures/MapIconRef/) topic.
