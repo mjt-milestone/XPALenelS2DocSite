@@ -40,7 +40,7 @@ Milestone DOES NOT support connecting a single XProtect site to many different O
         A <-->|XPA| D(Region 3):::XPClass
     
         linkStyle default stroke:#0f0,stroke-width:4px
-        classDef XPClass fill:#efb, stroke:#000, stroke-width:2px
+        classDef XPClass fill:#f57, stroke:#000, stroke-width:2px
     ```
 
 Milestone DOES NOT support connecting more than one XProtect site to a single OnGuard region.
@@ -54,5 +54,5 @@ Milestone DOES NOT support connecting more than one XProtect site to a single On
         A <-->|XPA| D>XProtect Site 3]:::XPClass
     
         linkStyle default stroke:#0f0,stroke-width:4px
-        classDef XPClass fill:#efb, stroke:#000, stroke-width:2px
+        classDef XPClass fill:#f57, stroke:#000, stroke-width:2px
     ```
