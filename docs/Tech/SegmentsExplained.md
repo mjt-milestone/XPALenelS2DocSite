@@ -9,8 +9,8 @@ For example, an organization with facilities in many locations can use segments 
 
 Illustrated below is an organization with three sites, a head quarters, site 1, and site 2.
 
-![MultiSiteOrg](img/CXAL.Sites4Segments.png)
+![MultiSiteOrg](img/CXAL.Sites4Segments.png){width=50%}
 
 Using segments, the guard user at site 1 can see readers, panels, and cardholders from segment 1, and the guard user from site 2 can see the devices and information from segment 2. The manager can see all devices and information, since they're in the default "All Segments" segment.
 
-![SegmentedOrg](img/CXAL.Segs4Segs.png)
+![SegmentedOrg](img/CXAL.Segs4Segs.png){width=50%}
