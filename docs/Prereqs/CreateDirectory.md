@@ -7,7 +7,7 @@
         For an OnGuard Enterprise system, create directories from the master server.
 
 1. Using the OnGuard System Administration app, go to the **Administration** menu and select **Directories**.</br>
-
+    </br>
     ![DirectoryMenu](img/Prerequisites_3.png)</br>
 2. Choose the directory type, either **Windows Local Account** or domain user account.</br>
 

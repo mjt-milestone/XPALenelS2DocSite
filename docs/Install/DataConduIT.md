@@ -11,7 +11,8 @@ Any XProtect Access integration using the DataConduIT connection mode can't upgr
     + Go to **Start > All Programs > OnGuard (X.X)**, select **System Administration**.
     + In the System Administration client, go to the **Administration** menu and select **System Options**.
     + Identify the host(s) running the **Message Broker Service** and **OpenAccess** services:</br>
-        ![OnGuardServiceHost](img/CXAL.DataCon1.png)
+        </br>
+        ![OnGuardServiceHost](img/CXAL.DataCon1.png){width=60%}
     + On the host(s), confirm that the following services are all running:</br>
 
         | OnGuard Service Name  | Known Good Service Locations  |

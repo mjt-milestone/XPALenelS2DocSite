@@ -5,6 +5,8 @@
 
 1. Go to the **Segments** sub-menu in the **Administration** menu of the OnGuard System Administration application.
 2. The **Segment Options** tab contains options to enable segmentation.
-    ![SegmentOptions](img/CXAL.SegOpts.png)
+    </br>
+    ![SegmentOptions](img/CXAL.SegOpts.png){width=60%}</br>
 3. The **Segments** tab contains the segments configured within OnGuard.
-    ![SementTabs](img/CXAL.Segs.png)
+    </br>
+    ![SementTabs](img/CXAL.Segs.png){width=60%}

@@ -25,4 +25,5 @@ In versions 4.2 and higher of the XProtect Access OnGuard integration, encrypted
 5. Browse and import the certificate in to the **Trusted Root Certification Authorities** folder.\
 6. Complete the wizard.
 7. Now apply encryption for the OnGuard XProtect Access instance in the XProtect Management Client. This process enables use of **OpenAccess - SSL Certificate Validation**, option B below.</br>
+    </br>
     ![EncryptOptions](img/EncryptionOptions.png)

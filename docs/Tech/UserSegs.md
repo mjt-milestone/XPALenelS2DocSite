@@ -4,7 +4,8 @@
 2. Click **Modify**.
 3. Select the **Segment Access** sub-tab.
 4. In the **Segment** listing window, select the segment(s) the user has access to.
-    ![SegmentUsers](img/CXAL.SegUsers.png)
+    </br>
+    ![SegmentUsers](img/CXAL.SegUsers.png){width=75%}</br>
 5. Click **OK** to save the changes.
 
 ??? abstract "Mapping domain users"
@@ -12,5 +13,5 @@
 
     You can map OnGuard users to a domain user within XProtect in the **Directory Accounts** sub-tab of the Users sub-menu of the **Administration** menu in the OnGuard System Administration application.
 
-    ![SegmentsWithDomain](img/CXAL.SegDomain.png)
+    ![SegmentsWithDomain](img/CXAL.SegDomain.png){width=75%}
 
