@@ -1,2 +1,4 @@
 # ignore cache files from container build
 .cache/
+# ignore site build files from site builds
+site/
