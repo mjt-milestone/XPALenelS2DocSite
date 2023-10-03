@@ -29,21 +29,21 @@ flowchart LR
 !!! glass "Diagram Note"
     Each XPA line in these diagrams represents the HTTP/SignalR connection between the Event Server in XProtect and the OnGuard XProtect Access Service on the OnGuard server. There are some scenarios where the OnGuard XProtect Access Service may not live on the same OnGuard server, see [Distributed deployment options](/Plan/Distributed/) for details.
 
-Milestone DOES NOT support connecting a single XProtect site to many different OnGuard regions.  We do not recommend running more than one XProtect Access integration per event server, for performance reasons.
+Milestone DOES NOT support connecting a single XProtect site to many different OnGuard sites.  We do not recommend running more than one XProtect Access integration per event server, for performance reasons.
 
 ??? warning "NOT SUPPORTED - One to Many"
     ```mermaid
     flowchart LR
 
-        A>Single XProtect]:::XPClass <-->|XPA| B(Region 1):::XPClass
-        A <-->|XPA| C(Region 2):::XPClass
-        A <-->|XPA| D(Region 3):::XPClass
+        A>Single XProtect]:::XPClass <-->|XPA| B(OnGuard Site 1):::XPClass
+        A <-->|XPA| C(OnGuard Site 2):::XPClass
+        A <-->|XPA| D(OnGuard Site 3):::XPClass
     
         linkStyle default stroke:#0f0,stroke-width:4px
         classDef XPClass fill:#f57, stroke:#000, stroke-width:2px
     ```
 
-Milestone DOES NOT support connecting more than one XProtect site to a single OnGuard region.
+Milestone DOES NOT support connecting more than one XProtect site to a single OnGuard site.
 
 ??? warning "NOT SUPPORTED - Many to One"
     ```mermaid
