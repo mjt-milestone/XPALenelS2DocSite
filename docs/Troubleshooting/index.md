@@ -34,13 +34,13 @@ Simple items can lead to support calls if overlooked. Below is a short list of t
     >
         + Management Client Alarm Definition source location:
     >
-    > ![MCSource](img/CXAL.eventsourceMC.png)
+    > ![MCSource](img/CXAL.eventsourceMC.png){width=75%}
     >
     + Open the log viewer application and check the following logs to verify your events are received by the XProtect Access Service:
         + XPA Translator - Event Manager Logs
             + Change the log level to Debug and Apply the change. Send some events into the system and then Open the log file.
     >
-    > ![DebugLog](img/CXAL.debugeventlog.png)
+    > ![DebugLog](img/CXAL.debugeventlog.png){width=75%}
     >
     + Open the MIP Plugin logs at this location to verify that the events are received by the Event Server:
         + C:\ProgramData\VideoOS\VideoOS.OnGuard.XPA.MipPlugin\VideoOS.Event.Server\logs
