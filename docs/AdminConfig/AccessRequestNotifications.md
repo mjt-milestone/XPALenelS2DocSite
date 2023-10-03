@@ -8,7 +8,7 @@ Access request notifications are pop-up notifications which appear in front of a
 4. Associate cameras, speakers, microphones, and sounds.
 5. Click the **Add Command** button and open the **Command** list to select which commands appear on the notification.</br>
 
-![ARNMenu](img/AdminConfig_6.png)
+![ARNMenu](img/AdminConfig_6.png){width=75%}
 
 !!! glass "Notification options"
     When the notification pops up on the desktop, a sound plays if you choose to include an audible notification. The built-in access request notification doesn't include a sound.

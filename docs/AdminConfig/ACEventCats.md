@@ -50,6 +50,8 @@ Below is the list of all access control event categories.
 To create a user-defined category, there is a **User-defined Categories** button on the bottom left corner of the **Access control events** menu.
 
 1. Click the **User-defined Categories** button to create your own custom event category.</br>
-    ![CreateUDCat](img/AdminConfig_2.png)
+    </br>
+    ![CreateUDCat](img/AdminConfig_2.png){width=75%}
 2. Click **Add**, name the category, and press **OK**. The user-defined category appears as an option in the **Event Category** list.</br>
-    ![UDCatList](img/AdminConfig_3.png)
+    </br>
+    ![UDCatList](img/AdminConfig_3.png){width=75%}

@@ -4,7 +4,8 @@ In XProtect operators perform alarm acknowledgment and other alarm status change
 
 1. In the **Alarm Manager** workspace, or any alarm list view item in the Smart Client, right-click an alarm.
 2. Select a new status for the alarm from the shortcut menu.</br>
-    ![CloseAlarm](img/SCFeatures_21.png)
+    <br>
+    ![CloseAlarm](img/SCFeatures_21.png){width=75%}
 3. Alarm status synchronizes as much as possible between XProtect and OnGuard.
 
 !!! glass "Alarm acknowledgement explained"
